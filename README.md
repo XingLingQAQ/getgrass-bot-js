@@ -6,7 +6,7 @@
 
 # Telegram Channel : [@getgrassbotjs](https://t.me/getgrassbotjs)
 
-## ⛩ Table Release
+## ⛩ Release Table
 
 | Bot Version | Status(Work/Not/(N/A) ) |
 |---|---|
@@ -14,11 +14,12 @@
 | [getgrass-bot-v0.3](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.3) | Not |
 | [getgrass-bot-v0.3.1-minor-update](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.3.1-minor) | Not |
 | [getgrass-bot-v0.4](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4-Freemium) | Not ( New Authentication Method ) |
-| [getgrass-bot-v0.4.1-Beta](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4.1-Freemium-mu) | N/A ( under development ) |
+| [getgrass-bot-v0.4.1-Beta](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4.1-Freemium-mu) | N/A ( the bot is dead ) |
 | [getgrass-bot-v0.4.1-Extension-GM](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Work ( Extension 1.0x ) |
 | [getgrass-bot-v0.4.1-Ext-Multi](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Work (Multi Account Support ) |
 | [getgrass-bot-v0.4.1-Comunity-Extension-1.25x ](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Work ( Comunity Extension 1.25x ) |
 | [getgrass-bot-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.2-GM-ALL) | Work ( Multi & Normal ) |
+| [getgrass-bot-v0.4.3-Extended-V2](https://github.com/cmalf/getgrass-bot-js/releases/tag/ggb-v0.4.3-ExtendedV2) | Work |
 
 ## 🗣 Discussions
 
@@ -26,9 +27,10 @@
 |---|---|
 | [Welcome to getgrass-bot-js Discussions!](https://github.com/cmalf/getgrass-bot-js/discussions/3) | Announcement |
 | [Release getgrass-bot-v0.3](https://github.com/cmalf/getgrass-bot-js/discussions/4) | Close |
-| [Release getgrass-bot-v0.4-Freemium](https://github.com/cmalf/getgrass-bot-js/discussions/9)| Open |
-| [getgrass desktop version (script) 📢❗🚨](https://github.com/cmalf/getgrass-bot-js/discussions/16) | Open ‧₊˚🎄✩ ₊˚🦌⊹♡ |
-| [Release ggb-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/discussions/18) | Open |
+| [Release getgrass-bot-v0.4-Freemium](https://github.com/cmalf/getgrass-bot-js/discussions/9)| Close |
+| [getgrass desktop version (script) 📢❗🚨](https://github.com/cmalf/getgrass-bot-js/discussions/16) | Close ‧₊˚🎄✩ ₊˚🦌⊹♡ |
+| [Release ggb-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/discussions/18) | Close |
+| [New Release ggb-v0.4.3-Extended-V2 #20](https://github.com/cmalf/getgrass-bot-js/discussions/20) | Open |
 
 > [!WARNING]
 > I am not responsible for any loss or damage caused by this bot. Use it at your own risk.
@@ -58,7 +60,7 @@
 
 ## 🤔 How To Do
 
-- Check [Release Page](https://github.com/cmalf/getgrass-bot-js/releases) (To downloads The latest version of the bot script ) Or
+## Check [⛩ Release Table](https://github.com/cmalf/getgrass-bot-js/edit/main/README.md#-table-release) (To downloads The latest version of the bot script )
 
 - Clone This Repo
 
