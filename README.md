@@ -109,7 +109,7 @@ SetUp on `Config.js`
 - Script
   
 ![Screenshot 2024-12-16 at 07 27 47](https://github.com/user-attachments/assets/3a4143ec-3bcd-4bd4-8ab6-0d6a8a4e0cd7)
-
+<!---
 ## 📢 Additional information
 
 > [!TIP]
@@ -133,3 +133,4 @@ SetUp on `Config.js`
      - or just look the ss below
      - ![Screenshot 2024-12-06 at 16 24 31](https://github.com/user-attachments/assets/c9d552f1-7241-4705-8580-30a88aae8638)
 
+--->
