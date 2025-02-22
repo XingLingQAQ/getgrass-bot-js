@@ -15,11 +15,12 @@
 | [getgrass-bot-v0.3.1-minor-update](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.3.1-minor) | Not |
 | [getgrass-bot-v0.4](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4-Freemium) | Not ( New Authentication Method ) |
 | [getgrass-bot-v0.4.1-Beta](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4.1-Freemium-mu) | N/A ( the bot is dead ) |
-| [getgrass-bot-v0.4.1-Extension-GM](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Work ( Extension 1.0x ) |
-| [getgrass-bot-v0.4.1-Ext-Multi](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Work (Multi Account Support ) |
-| [getgrass-bot-v0.4.1-Comunity-Extension-1.25x ](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Work ( Comunity Extension 1.25x ) |
-| [getgrass-bot-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.2-GM-ALL) | Work ( Multi & Normal ) |
-| [getgrass-bot-v0.4.3-Extended-V2](https://github.com/cmalf/getgrass-bot-js/releases/tag/ggb-v0.4.3-ExtendedV2) | Work |
+| [getgrass-bot-v0.4.1-Extension-GM](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | N/A ( #Grass Update "Airdrop Terms" ) |
+| [getgrass-bot-v0.4.1-Ext-Multi](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | N/A ( #Grass Update "Airdrop Terms" ) |
+| [getgrass-bot-v0.4.1-Comunity-Extension-1.25x ](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | N/A ( #Grass Update "Airdrop Terms" ) |
+| [getgrass-bot-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.2-GM-ALL) | N/A ( #Grass Update "Airdrop Terms" ) |
+| [getgrass-bot-v0.4.3-Extended-V2](https://github.com/cmalf/getgrass-bot-js/releases/tag/ggb-v0.4.3-ExtendedV2) | N/A ( #Grass Update "Airdrop Terms" ) |
+| [Wait for Updates](https://github.com/cmalf/getgrass-bot-js#-release-table)  | N/A |
 
 ## 🗣 Discussions
 
