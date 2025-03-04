@@ -14,12 +14,12 @@
 | [getgrass-bot-v0.3](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.3) | Not |
 | [getgrass-bot-v0.3.1-minor-update](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.3.1-minor) | Not |
 | [getgrass-bot-v0.4](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4-Freemium) | Not ( New Authentication Method ) |
-| [getgrass-bot-v0.4.1-Beta](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4.1-Freemium-mu) | N/A ( the bot is dead ) |
-| [getgrass-bot-v0.4.1-Extension-GM](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | N/A ( #Grass Update "Airdrop Terms" ) |
-| [getgrass-bot-v0.4.1-Ext-Multi](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | N/A ( #Grass Update "Airdrop Terms" ) |
-| [getgrass-bot-v0.4.1-Comunity-Extension-1.25x ](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | N/A ( #Grass Update "Airdrop Terms" ) |
-| [getgrass-bot-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.2-GM-ALL) | N/A ( #Grass Update "Airdrop Terms" ) |
-| [getgrass-bot-v0.4.3-Extended-V2](https://github.com/cmalf/getgrass-bot-js/releases/tag/ggb-v0.4.3-ExtendedV2) | N/A ( #Grass Update "Airdrop Terms" ) |
+| [getgrass-bot-v0.4.1-Beta](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-script-v0.4.1-Freemium-mu) | Not ( the bot is dead ) |
+| [getgrass-bot-v0.4.1-Extension-GM](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Not ( #Grass Update "Airdrop Terms" ) ( the bot is dead ) |
+| [getgrass-bot-v0.4.1-Ext-Multi](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Not ( #Grass Update "Airdrop Terms" ) ( the bot is dead ) |
+| [getgrass-bot-v0.4.1-Comunity-Extension-1.25x ](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.1-Extension-GM) | Not ( #Grass Update "Airdrop Terms" ) ( the bot is dead ) |
+| [getgrass-bot-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/releases/tag/getgrass-bot-v0.4.2-GM-ALL) | Not ( #Grass Update "Airdrop Terms" ) ( the bot is dead ) |
+| [getgrass-bot-v0.4.3-Extended-V2](https://github.com/cmalf/getgrass-bot-js/releases/tag/ggb-v0.4.3-ExtendedV2) | Not ( #Grass Update "Airdrop Terms" ) ( the bot is dead ) |
 | [Wait for Updates](https://github.com/cmalf/getgrass-bot-js#-release-table)  | N/A |
 
 ## 🗣 Discussions
