@@ -4,7 +4,12 @@
 
 - A Node.js bot script to automate grass Season 2 mining.
 
-# Telegram Channel : [@getgrassbotjs](https://t.me/getgrassbotjs)
+[tg-clk]: https://t.me/+1C6KHwq4HWE4OThl
+[tg-c]: https://img.shields.io/badge/Telegram_Channel:-The_Digital_Alchemist_(CMALF)-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
+[tg-g]: https://img.shields.io/badge/Telegram_Group:-TDA_(CMALF)_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
+[tg-glk]: https://t.me/+O_0eLwojWD03MDU1
+
+[![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
 
 ## ⛩ Release Table
 
@@ -32,7 +37,8 @@
 | [Release getgrass-bot-v0.4-Freemium](https://github.com/cmalf/getgrass-bot-js/discussions/9)| Close |
 | [getgrass desktop version (script) 📢❗🚨](https://github.com/cmalf/getgrass-bot-js/discussions/16) | Close ‧₊˚🎄✩ ₊˚🦌⊹♡ |
 | [Release ggb-v0.4.2-Community-Extension-GM-All](https://github.com/cmalf/getgrass-bot-js/discussions/18) | Close |
-| [New Release ggb-v0.4.3-Extended-V2 #20](https://github.com/cmalf/getgrass-bot-js/discussions/20) | Open |
+| [New Release ggb-v0.4.3-Extended-V2 #20](https://github.com/cmalf/getgrass-bot-js/discussions/20) | Close |
+| [General Discussion!](https://github.com/cmalf/getgrass-bot-js/discussions/26) | Open |
 
 > [!WARNING]
 > I am not responsible for any loss or damage caused by this bot. Use it at your own risk.
@@ -64,23 +70,10 @@
 
 ## Check [⛩ Release Table](https://github.com/cmalf/getgrass-bot-js/edit/main/README.md#-table-release) (To downloads The latest version of the bot script )
 
-- Clone This Repo
-
-  - ```bash
-    git clone https://github.com/cmalf/getgrass-bot-js.git
-    ```
-- Go To Folder
-  - ```bash
-    cd getgrass-bot-js
-    ```
-- Select the latest version of the bot script
-
 - Install Dependencies
   - ```bash
-    npm install
+    npm i
     ```
-- Configure All Settings
-
 - Run The Script
 
   - ```bash
@@ -89,28 +82,32 @@
 
 ## ⚙️ Configuration
 
-SetUp on `Config.js`
-
 - Get UserId
 
   - Login to your grass account
   - Go to Dashboard
-  - Right Click Open New Tab [get-UserId](https://api.getgrass.io/retrieveUser)
-
-  - Edit Proxy.txt
-
-  - format proxies is: `socks://username:pass@ip:port` Or `http://username:pass@ip:port`
-  - Note: `The proxy format depends on the bot version you are using`.
+  - Right Click Open New Tab [get-UserId](https://api.grass.io/retrieveUser)
+- format proxies is: `'Protocol://username:password@host:port'`
 
 ## 📸 ScreenShoot
 
 - Dahsboard
-
-![Screenshot 2024-12-16 at 09 51 03](https://github.com/user-attachments/assets/9e50dc29-4a45-4888-97c9-5b60f62c6594)
+<!---
+![Screenshot 2024-12-16 at 09 51 03](https://github.com/user-attachments/assets/9e50dc29-4a45-4888-97c9-5b60f62c6594)--->
+<details>
+  <summary>Click to see image</summary>
+  <img src="https://github.com/user-attachments/assets/9e50dc29-4a45-4888-97c9-5b60f62c6594" alt="Grass Dahsboard">
+</details>
+<hr>
 
 - Script
-  
-![Screenshot 2024-12-16 at 07 27 47](https://github.com/user-attachments/assets/3a4143ec-3bcd-4bd4-8ab6-0d6a8a4e0cd7)
+<!---  
+![Screenshot 2024-12-16 at 07 27 47](https://github.com/user-attachments/assets/3a4143ec-3bcd-4bd4-8ab6-0d6a8a4e0cd7) --->
+<details>
+  <summary>Click to see image</summary>
+  <img src="https://github.com/user-attachments/assets/3a4143ec-3bcd-4bd4-8ab6-0d6a8a4e0cd7" alt="Grass Script">
+</details>
+<hr>
 <!---
 ## 📢 Additional information
 
